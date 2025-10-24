@@ -1,0 +1,93 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 135px;
+    background-color: #1a4d2e;
+    text-align: center;
+    align-content: center;
+    border-bottom: 5px solid #4f772d;
+}
+
+h1 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+header p {
+    color: #dda15e;
+    font-size: 18px;
+}
+
+.inicio {
+    height: 320px;
+    width: 100%;
+    background-image: url(./imgs/fundo.jpeg);
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+}
+
+.inicio h2 {
+    font-weight: 400;
+}
+
+.inicio p {
+    color: #f5f5dc;
+}
+
+.manaus {
+    height: 260px;
+    text-align: center;
+    align-content: center;
+}
+
+.manaus h2 {
+    color: #1a4d2e;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.manaus p {
+    font-weight: 100;
+    color: rgb(148, 145, 145);
+}
+
+.linha {
+    height: 3px;
+    width: 90px;    
+    background-color: #1a4d2e;
+    margin: 0 auto;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+}
+
+.imagens {
+    background-color: #f5f5dc;
+}
+
+.img1 {
+    border: 3px solid #4f772d;
+    border-radius: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+    width: 50%;
+    height: 600px;
+    margin: 24px auto;
+  
+}
+
+.fundo {
+    background-color: #ffffff;
+}
