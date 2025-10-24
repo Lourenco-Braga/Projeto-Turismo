@@ -112,3 +112,16 @@ img {
     font-weight: 100;
     color: rgb(148, 145, 145);
 }
+
+.img2 {
+    border: 3px solid #4f772d;
+    border-radius: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+    width: 40%;
+    height: 600px;
+    margin: 24px auto;
+    overflow: hidden;
+    background-color: #ffffff;
+}
