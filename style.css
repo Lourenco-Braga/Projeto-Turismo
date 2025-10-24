@@ -138,3 +138,21 @@ img {
     overflow: hidden;
     background-color: #ffffff;
 }
+
+footer {
+    height: 135px;
+    width: 100%;
+    background-color: #1a4d2e;
+    text-align: center;
+    align-content: center;
+    border-top: 5px solid #4f772d;
+}
+
+footer p + p {
+    color: #dda15e;
+    font-size: 18px;
+}
+
+footer .branco {
+    color: #ffffff;
+}
