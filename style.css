@@ -125,3 +125,16 @@ img {
     overflow: hidden;
     background-color: #ffffff;
 }
+
+.img3 {
+    border: 3px solid #4f772d;
+    border-radius: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+    width: 40%;
+    height: 600px;
+    margin: 24px auto;
+    overflow: hidden;
+    background-color: #ffffff;
+}
